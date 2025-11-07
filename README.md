@@ -1,4 +1,4 @@
-# manual-git
+# Manual-git
 Este repositorio explica todos los comandos basicos de Git.
 
 ---
