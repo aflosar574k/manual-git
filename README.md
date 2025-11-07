@@ -21,9 +21,6 @@ Este repositorio explica todos los comandos basicos de Git.
 **Descripción:**  
 Inicializa un repositorio Git en la carpeta actual, creando la carpeta oculta `.git` donde se guarda todo el historial del proyecto.  
 
-**Uso:**
-```bash
-
 ---
 
 ## git clone
@@ -112,18 +109,7 @@ Se usa, por ejemplo, para unir una rama de desarrollo con la rama principal.
 **Uso:**
 git merge <rama>
 
-**Uso:**
 
 
 
 
-
-
-
-
-
-git init
-
-
-```bash
-git init
